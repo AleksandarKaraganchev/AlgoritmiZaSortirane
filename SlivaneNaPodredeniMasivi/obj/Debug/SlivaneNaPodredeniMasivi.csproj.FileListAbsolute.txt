@@ -1,0 +1,8 @@
+D:\Програмиране\AlgoritmiZaSortirane\SlivaneNaPodredeniMasivi\bin\Debug\SlivaneNaPodredeniMasivi.exe.config
+D:\Програмиране\AlgoritmiZaSortirane\SlivaneNaPodredeniMasivi\bin\Debug\SlivaneNaPodredeniMasivi.exe
+D:\Програмиране\AlgoritmiZaSortirane\SlivaneNaPodredeniMasivi\bin\Debug\SlivaneNaPodredeniMasivi.pdb
+D:\Програмиране\AlgoritmiZaSortirane\SlivaneNaPodredeniMasivi\obj\Debug\SlivaneNaPodredeniMasivi.csproj.AssemblyReference.cache
+D:\Програмиране\AlgoritmiZaSortirane\SlivaneNaPodredeniMasivi\obj\Debug\SlivaneNaPodredeniMasivi.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\AlgoritmiZaSortirane\SlivaneNaPodredeniMasivi\obj\Debug\SlivaneNaPodredeniMasivi.csproj.CoreCompileInputs.cache
+D:\Програмиране\AlgoritmiZaSortirane\SlivaneNaPodredeniMasivi\obj\Debug\SlivaneNaPodredeniMasivi.exe
+D:\Програмиране\AlgoritmiZaSortirane\SlivaneNaPodredeniMasivi\obj\Debug\SlivaneNaPodredeniMasivi.pdb

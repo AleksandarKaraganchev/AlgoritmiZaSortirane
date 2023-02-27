@@ -1,0 +1,8 @@
+D:\Програмиране\AlgoritmiZaSortirane\Sortirane\bin\Debug\Sortirane.exe.config
+D:\Програмиране\AlgoritmiZaSortirane\Sortirane\bin\Debug\Sortirane.exe
+D:\Програмиране\AlgoritmiZaSortirane\Sortirane\bin\Debug\Sortirane.pdb
+D:\Програмиране\AlgoritmiZaSortirane\Sortirane\obj\Debug\Sortirane.csproj.AssemblyReference.cache
+D:\Програмиране\AlgoritmiZaSortirane\Sortirane\obj\Debug\Sortirane.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\AlgoritmiZaSortirane\Sortirane\obj\Debug\Sortirane.csproj.CoreCompileInputs.cache
+D:\Програмиране\AlgoritmiZaSortirane\Sortirane\obj\Debug\Sortirane.exe
+D:\Програмиране\AlgoritmiZaSortirane\Sortirane\obj\Debug\Sortirane.pdb

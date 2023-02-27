@@ -1,0 +1,8 @@
+D:\Програмиране\AlgoritmiZaSortirane\SravnqvaneNaSimvolniMasivi\bin\Debug\SravnqvaneNaSimvolniMasivi.exe.config
+D:\Програмиране\AlgoritmiZaSortirane\SravnqvaneNaSimvolniMasivi\bin\Debug\SravnqvaneNaSimvolniMasivi.exe
+D:\Програмиране\AlgoritmiZaSortirane\SravnqvaneNaSimvolniMasivi\bin\Debug\SravnqvaneNaSimvolniMasivi.pdb
+D:\Програмиране\AlgoritmiZaSortirane\SravnqvaneNaSimvolniMasivi\obj\Debug\SravnqvaneNaSimvolniMasivi.csproj.AssemblyReference.cache
+D:\Програмиране\AlgoritmiZaSortirane\SravnqvaneNaSimvolniMasivi\obj\Debug\SravnqvaneNaSimvolniMasivi.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\AlgoritmiZaSortirane\SravnqvaneNaSimvolniMasivi\obj\Debug\SravnqvaneNaSimvolniMasivi.csproj.CoreCompileInputs.cache
+D:\Програмиране\AlgoritmiZaSortirane\SravnqvaneNaSimvolniMasivi\obj\Debug\SravnqvaneNaSimvolniMasivi.exe
+D:\Програмиране\AlgoritmiZaSortirane\SravnqvaneNaSimvolniMasivi\obj\Debug\SravnqvaneNaSimvolniMasivi.pdb
